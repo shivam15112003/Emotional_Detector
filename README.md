@@ -1,4 +1,4 @@
-# Emotion_detection
+# human_Emotion_detection
 Simple Emotion_Detection using Machine Learning
 # Objective
 To detect the emotion of the person in the image using Machine Learning
